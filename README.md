@@ -9,3 +9,5 @@ https://drive.google.com/drive/folders/1pULe_CqpKBzzh3zPKmUtZ9AGL7qixpvD
 Solar/Corona SDK:
 https://github.com/coronalabs/corona/releases
 
+https://discord.gg/hnn5bRMvzK
+
